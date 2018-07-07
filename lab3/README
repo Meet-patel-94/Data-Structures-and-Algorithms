@@ -1,0 +1,15 @@
+NAME: MEET PATEL
+ID: 500509440
+Section:01
+TA: LUNA FENG
+
+1. My lab3 was successfully completed. My mergeSort and insertionSort
+   works without any errors.
+
+2.  
+Alogrithm  DATA STRUCTURE  TIME COMPLEXITY:BEST     TIME COMLEXITY:WORST
+Merge sort      Array 	   O(n log(n)) 	O(n log(n)) 	O(n log(n)) 
+Insertion sort 	Array 	   O(n) 	O(n^2) 	        O(n^2) 
+
+
+

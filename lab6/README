@@ -1,0 +1,31 @@
+MEET PATEL
+500509440
+Section:01
+TA: LUNA FENG
+
+
+Summarize your lab:
+
+For my code all the programs work for part1, part2 and part3.
+     
+
+Answer the following questions in your README file.
+
+Question 1. Which hash table collision resolution method did you use (eg. chaining or open addressing)? Explain your choice briefly (less than 25 words).
+
+    Answer: I used linear probing because it allows one word per table space in order to do a count.
+ 
+
+Question 2. Which hash function (division or multiplication) did you use? How did you convert a string into a number?
+
+ANSWER: I used the division method. I used the ASCII values of the characters to convet the strings to a number.
+
+ 
+ 
+Question 3. Another legal XML tag not used in this lab is the "stand-alone" tag. This kind of tag combines both a start-tag and end-tag in one. It is identified with a '/' (slash) preceding the final >. (For example, the <foo/> is a stand-alone tag that is "self balancing".
+
+Describe briefly how you would modify Part 3 to allow this kind of tag.
+
+ 
+       
+ANSWER: I will modify part 3 in such a way that when the alphabets are scanned, it should stop at > or /. If it is stopped at >, program should do nomal tasks for start tags. If its is stopped at /, program should do normal tasks for start tags and end tags together.

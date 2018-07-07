@@ -1,0 +1,14 @@
+#include "node.h"
+#include <stdlib.h>  //for NULL
+
+/** Returns the number of items in the list. */
+unsigned int list_size(nodePtr_t head) {
+    unsigned int count=0;
+    nodePtr_t temp=head;
+    while(temp||NULL){
+        temp=temp->next;
+        count++;
+    }
+    
+    return count;
+}
